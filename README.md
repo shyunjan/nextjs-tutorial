@@ -4,7 +4,8 @@
 </p>
 
 # Description
-[Svelte/SvelteKit-Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte)의 각 Chapter 예제코드를 ReactJS-Next.js로 구현한 프로젝트  
+
+[Svelte/SvelteKit-Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte)의 각 Chapter 예제코드를 ReactJS-Next.js로 구현한 프로젝트
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -40,7 +41,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ```bash
 $ npx create-next-app@latest --typescript --tailwind --eslint
 √ What is your project named? ... nextjs-tutorial
-√ Would you like to use `src/` directory? ... No / [Yes]
+√ Would you like to use `src/` directory? ... [No] / Yes
 √ Would you like to use App Router? (recommended) ... No / [Yes]
 √ Would you like to customize the default import alias (@/*)? ... No / [Yes]
 √ What import alias would you like configured? ... @/*
@@ -48,7 +49,7 @@ Creating a new Next.js app in C:\Projects\My_Projects\NextJS\nextjs-tutorial.
 
 Using npm.
 
-Initializing project with template: app-tw 
+Initializing project with template: app-tw
 
 Installing dependencies:
 - react
